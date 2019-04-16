@@ -22,3 +22,4 @@ for f in folders:
 delete_if_exists("main.msh")
 delete_if_exists("case/constant/polyMesh")
 delete_if_exists("case/postProcessing")
+delete_if_exists("case/view.foam")
